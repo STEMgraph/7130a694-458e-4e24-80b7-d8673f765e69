@@ -1,6 +1,7 @@
 <!---
 {
   "id": "7130a694-458e-4e24-80b7-d8673f765e69",
+  "teaches": "Two ways to run python",
   "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-07",
