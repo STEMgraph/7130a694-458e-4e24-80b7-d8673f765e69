@@ -2,7 +2,7 @@
 {
   "id": "7130a694-458e-4e24-80b7-d8673f765e69",
   "teaches": "Two ways to run python",
-  "depends_on": [],
+  "depends_on": ["2c7334b3-b07d-48d6-a562-79072d8e166e"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-07",
   "keywords": ["python", "REPL"]
